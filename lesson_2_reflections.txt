@@ -5,6 +5,8 @@ Repository is required to link all the files in that location and to store the s
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Commit only works for all the files in the staging area. So if there are some files which should not be affected by the commit command can be excluded.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
